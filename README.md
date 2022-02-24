@@ -1,12 +1,12 @@
 
-<h1 align="center">⚡ COOL ME ⚡</h1>
+<h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!+👋;Welcome+Here,+My+Buddy....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
  
 
-<p align="center">
+<h2 align="center">⚡ COOL ME ⚡</h2>
   🧑 Hi, This is jlchen5 
   <br>
   🔬 I'm currently studying for a master's degree in Central South University
@@ -21,6 +21,7 @@
   <br>
   📫 How to reach me: <a href="mailto: jlchen5">jl_chen1@outlook.com</a>
 </p>
+<h2>
  
 <div align="center">
   <a href="https://github.com/jlchen5">
@@ -32,7 +33,7 @@
     <img src="https://komarev.com/ghpvc/?username=jlchen5" alt="star">
 </div>
  
-<h2 align="center">⚡ STATs ⚡</h2>
+<h3 align="center">⚡ STATs ⚡</h3>
 <br>
 <p align=center>
   <div align=center>
