@@ -10,11 +10,11 @@
 <br>
   🧑 Hi, This is jlchen5 
   <br>
-  🔬 I'm currently studying for a master's degree in Central South University
+  🔬 I'm currently studying for MD in CSU
   <br>
-  🎓 I graduated from Shihezi University 
+  🎓 I graduated from SHZU
   <br>
-  💻 I love writing code and learn anythings about it
+  💻 I love writing code and learn about it
   <br>
   📚 I’m currently learning Linux, R and something I need
   <br>
