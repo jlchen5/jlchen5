@@ -1,11 +1,12 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!+👋;Welcome+Here,+My+Buddy....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com?font=arial&color=%23000000&size=50&center=true&vCenter=true&width=500&lines=This+is+jlchen5;Hello%2C+World!;Welcome+to+my+place~">
   </a>
 
+
  
-<h3 align="center">⚡ COOL me ⚡</h3>
+<h3 align="center">⚡ ME ⚡</h3>
   
 <p align=center>
   <br>
@@ -27,7 +28,7 @@
  
 <div align="center">
   <a href="https://github.com/jlchen5">
-    <img src="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=blue">
+    <img src="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white">
   </a>
   <a href="mailto:1314charlie@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white"">
