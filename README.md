@@ -21,13 +21,13 @@
   <br>
   💬 Ask me anything about from <a href="https://github.com/jlchen5/jlchen5/issues" title="Issues">Here</a>
   <br>
-  📫 How to reach me: <a href="mailto: jl_chen1@outlook">jlchen5.com</a>
+  📫 How to reach me: <a href="mailto: jl_chen1@outlook">jlchen5 </a>
 </p>
 <h2>
  
 <div align="center">
   <a href="https://github.com/jlchen5">
-    <img src="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white">
+    <img src="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=blue">
   </a>
   <a href="mailto:1314charlie@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white"">
