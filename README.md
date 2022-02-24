@@ -13,7 +13,6 @@
 </div>
 
 
-
 ### About Me
 
 - 🔭 I’m currently working on something cool :wink:
@@ -23,7 +22,6 @@
                                                                      
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=jlchen5&show_icons=true&include_all_commits=true)](https://github.com/jlchen5/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlchen5&layout=compact)](https://github.com/jlchen5/github-readme-stats)
 
-<img width="100%" src="https://github.com/jacob953/jacob953/blob/output/github-contribution-grid-snake.svg">
+<img width="100%" src="https://github.com/jlchen5/jlchen5/blob/output/github-contribution-grid-snake.svg">
                                                                      
