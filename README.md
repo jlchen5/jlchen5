@@ -1,5 +1,5 @@
 
-<h1 align="center">
+<h1 align="center">⚡ COOL ME ⚡</h1>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!+👋;Welcome+Here,+My+Buddy....;Nice+to+meet+you!&center=true&size=30">
   </a>
@@ -32,7 +32,7 @@
     <img src="https://komarev.com/ghpvc/?username=jlchen5" alt="star">
 </div>
  
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">⚡ STATs ⚡</h2>
 <br>
 <p align=center>
   <div align=center>
