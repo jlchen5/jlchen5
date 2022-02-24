@@ -21,7 +21,7 @@
   <br>
   💬 Ask me anything about from <a href="https://github.com/jlchen5/jlchen5/issues" title="Issues">Here</a>
   <br>
-  📫 How to reach me: <a href="mailto: jlchen5">jl_chen1@outlook.com</a>
+  📫 How to reach me: <a href="mailto: jl_chen1@outlook">jlchen5.com</a>
 </p>
 <h2>
  
@@ -54,15 +54,4 @@
   </div>
 
 </p>
- 
-
-
- 
- 
- 
- 
- 
- 
- 
- 
  
