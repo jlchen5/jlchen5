@@ -3,10 +3,9 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!+👋;Welcome+Here,+My+Buddy....;Nice+to+meet+you!&center=true&size=30">
   </a>
-</h1>
- 
 
-<h2 align="center">⚡ COOL ME ⚡</h3>
+ 
+<h2 align="center">⚡ COOL ME ⚡</h2>
 <br>
   🧑 Hi, This is jlchen5 
   <br>
