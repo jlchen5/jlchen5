@@ -6,7 +6,7 @@
 
 
  
-<h3 align="center">⚡ ME ⚡</h3>
+<h2 align="center">⚡ INTRO ⚡</h2>
   
 <p align=center>
   <br>
@@ -36,7 +36,7 @@
     <img src="https://komarev.com/ghpvc/?username=jlchen5" alt="star">
 </div>
  
-<h3 align="center">⚡ STATs ⚡</h3>
+<h2 align="center">⚡ STATs ⚡</h2>
 <br>
 <p align=center>
   <div align=center>
