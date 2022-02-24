@@ -7,10 +7,8 @@
 </h1>
  
 
-
-
 <p align="center">
-## Hi, I'm **jlchen5**
+ Hi, This is jlchen5 
   <br>
   🔬 I'm currently studying for a master's degree in Central South University
   <br>
@@ -47,11 +45,7 @@
 
 </p>
  
-<hr>
- 
 
-<h4 align="center">
-  <a href="https://github.com/jlchen5?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 
  
  
