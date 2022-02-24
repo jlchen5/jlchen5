@@ -21,7 +21,7 @@
 - 💬 Ask me about anything related to back-end
 - 📫 How to reach me: [@jlchen5](mailto:1314charlie@gmail.com)
 
-[![Github stats](https://github-readme-stats.vercel.app/api?jlchen5=username&show_icons=true&include_all_commits=true)](https://github.com/jlchen5/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=jlchen5&show_icons=true&include_all_commits=true)](https://github.com/jlchen5/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlchen5&layout=compact)](https://github.com/jlchen5/github-readme-stats)
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=jlchen5&show_icons=true&theme=dark&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
