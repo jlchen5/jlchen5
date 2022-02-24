@@ -7,7 +7,7 @@
  
 
 <p align="center">
- Hi, This is jlchen5 
+  🧑 Hi, This is jlchen5 
   <br>
   🔬 I'm currently studying for a master's degree in Central South University
   <br>
