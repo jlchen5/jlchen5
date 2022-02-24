@@ -6,7 +6,8 @@
 </h1>
  
 
-<h2 align="center">⚡ COOL ME ⚡</h2>
+<h2 align="center">⚡ COOL ME ⚡</h3>
+<br>
   🧑 Hi, This is jlchen5 
   <br>
   🔬 I'm currently studying for a master's degree in Central South University
