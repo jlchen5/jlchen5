@@ -5,7 +5,7 @@
   </a>
 <h1>
  
-<h2 align="center">⚡ COOL me ⚡</h2>
+<h1 align="center">⚡ COOL me ⚡</h1>
   
 <p align=center>
   <br>
