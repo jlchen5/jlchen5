@@ -8,17 +8,17 @@
  
 <h2 align="center">⚡ INTRO ⚡</h2>
   
-<p align=center>
+<p align=left>
   <br>
-  🧑 Hi, This is jlchen5 
+  🧑 Hi, This is [jlchen5](https://github.com/jlchen5)  
   <br>
-  🔬 I'm currently studying for MD in CSU
+  🔬 I'm currently studying for MD in `CSU`
   <br>
-  🎓 I graduated from SHZU
+  🎓 I graduated from `SHZU`
   <br>
   💻 I love writing code and learn about it
   <br>
-  📚 I’m currently learning Linux, R and something I need
+  📚 I’m currently learning `Linux`, `R` and something I need
   <br>
   💬 Ask me anything about from <a href="https://github.com/jlchen5/jlchen5/issues" title="Issues">Here</a>
   <br>
@@ -57,6 +57,6 @@
 </p>
  
  
- [![Jiale's GitHub stats](https://github-readme-stats.vercel.app/api?username=jlchen5)](https://github.com/anuraghazra/github-readme-stats)
+
  
  
