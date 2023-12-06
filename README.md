@@ -6,7 +6,6 @@
 - 🧑 Hi, This is jlchen5
 - 💻 I love writing code and learn about it
 - 💬 Ask me anything about from [here](https://github.com/jlchen5/jlchen5/issues)
-- 📫 How to reach me: [jlchen5](https://www.zhihu.com/people/xiang-ya-chen-wei-ting)
 
  
   
