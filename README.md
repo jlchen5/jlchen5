@@ -1,8 +1,11 @@
-# 👋 Hi, I'm jlchen5!
+# 👋 Hi, I'm jlchen5!  
+![Profile views](https://komarev.com/ghpvc/?username=jlchen5&color=brightgreen)
 
-[![jlchen5's GitHub stats](https://github-readme-stats.vercel.app/api?username=jlchen5&show_icons=true&theme=dark&bg_color=000&title_color=fff&text_color=fff)](https://github.com/jlchen5)
+- Welcome to my GitHub page! I'm passionate about coding, technology, and continuous learning. 
 
-Welcome to my GitHub page! I'm passionate about coding, technology, and continuous learning. Here you'll find projects that I've worked on and ideas I'm exploring.
+- Here you'll find projects that I've worked on and ideas I'm exploring.
+
+
 
 ## About Me 🙋‍♂️
 
@@ -13,7 +16,7 @@ Welcome to my GitHub page! I'm passionate about coding, technology, and continuo
 
 ## Connect With Me 🌐
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/jlchen5">
     <img src="https://img.shields.io/badge/-GitHub-000?style=flat&logo=GitHub&logoColor=white" alt="GitHub">
   </a>
@@ -22,10 +25,11 @@ Welcome to my GitHub page! I'm passionate about coding, technology, and continuo
   </a>
 </div>
 
-![Profile views](https://komarev.com/ghpvc/?username=jlchen5&color=brightgreen)
+
 
 ## What I'm Up To 🔨
 
 Here are some of the projects I'm currently working on and learning about. Feel free to take a look and give feedback!
 
- 
+
+[![jlchen5's GitHub stats](https://github-readme-stats.vercel.app/api?username=jlchen5&show_icons=true&theme=dark&bg_color=000&title_color=fff&text_color=fff)](https://github.com/jlchen5)
