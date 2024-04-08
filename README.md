@@ -1,20 +1,9 @@
-# 👋 Hi, I'm jlchen5!  
+# My world here
 ![Profile views](https://komarev.com/ghpvc/?username=jlchen5&color=brightgreen)
 
-- Welcome to my GitHub page! I'm passionate about coding, technology, and continuous learning. 
+Welcome to my GitHub page! Here you'll find projects that I've worked on and ideas I'm exploring.
 
-- Here you'll find projects that I've worked on and ideas I'm exploring.
-
-
-
-## About Me 🙋‍♂️
-
-- 🧑 **Who am I?** I'm known here as jlchen5.
-- 💻 **What do I love?** Writing code, solving problems, and diving into new technologies.
-- 📚 **Learning:** Every day is an opportunity to learn something new in the vast world of coding.
-- 💬 **Let's Talk:** Have a question or want to chat about technology? Feel free to [open an issue](https://github.com/jlchen5/jlchen5/issues) and ask me anything.
-
-## Connect With Me 🌐
+# Connect With Me 
 
 <div align="left">
   <a href="https://github.com/jlchen5">
@@ -25,11 +14,6 @@
   </a>
 </div>
 
-
-
-## What I'm Up To 🔨
-
-Here are some of the projects I'm currently working on and learning about. Feel free to take a look and give feedback!
-
+- Have a question or want to chat about technology? Feel free to [open an issue](https://github.com/jlchen5/jlchen5/issues) and ask me anything.
 
 [![jlchen5's GitHub stats](https://github-readme-stats.vercel.app/api?username=jlchen5&show_icons=true&theme=dark&bg_color=000&title_color=fff&text_color=fff)](https://github.com/jlchen5)
