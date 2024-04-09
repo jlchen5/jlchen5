@@ -16,4 +16,10 @@ Welcome to my GitHub page! Here you'll find projects that I've worked on and ide
 
 - Have a question or want to chat about technology? Feel free to [open an issue](https://github.com/jlchen5/jlchen5/issues) and ask me anything.
 
-[![jlchen5's GitHub stats](https://github-readme-stats.vercel.app/api?username=jlchen5&show_icons=true&theme=dark&bg_color=000&title_color=fff&text_color=fff)](https://github.com/jlchen5)
+
+<div align="center">
+  <a href="https://github.com/jlchen5">
+    [![jlchen5's GitHub stats](https://github-readme-stats.vercel.app/api?username=jlchen5&show_icons=true&theme=dark&bg_color=000&title_color=fff&text_color=fff)](https://github.com/jlchen5)
+  </a>
+</div>
+
